@@ -24,7 +24,7 @@ A curated list of AI SaaS tools categorized by niche. Perfect for inspiration, r
 
 ## AI Ad Maker/AI UGC Ad Genrator
 
-[Adsmaker.ai](https://www.adsmaker.ai/): AI Ad Maker & Generator | Create High-Converting Ads
+[Adsmaker.ai](https://www.adsmaker.ai/): The All-in-One AI Ad Maker for Every Platform. From TikTok and Meta to Google and beyond—get the full ad production stack in one place.
 
 [UGCVideo.ai](https://www.ugcvideo.ai/): Create realistic AI Avatars and viral UGC Videos in minutes. 
 
