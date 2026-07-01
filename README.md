@@ -46,3 +46,10 @@ A curated list of AI SaaS tools categorized by niche. Perfect for inspiration, r
 ## AI Research/AI Citation Generator
 
 [Koke AI](https://www.koke.ai/): The AI-powered Citation Generator helps you create APA, MLA, Chicago, IEEE, and Harvard references in seconds
+
+## AI Small Tool
+[tempmail.ai](http://tempmail.ai): Disposable temporary email address — no sign-up, no spam, real-time inbox.
+[tuberepeat.ai](https://www.tuberepeat.ai/) : Paste any YouTube URL to set precise loop points, adjust speed, and track your reps
+[Tier lIST Maker](https://www.tierlist.ai/) : Drag and rank anything. Pick a ready-made template or start from a blank board.
+[pdftoword.ai](https://www.pdftoword.ai/): All the PDF tools you need: merge, split, compress, convert, rotate, unlock, watermark and organize files in a few clicks.
+[imagecolorpicker.io](https://www.imagecolorpicker.io/): Upload, paste, or enter a URL to get HEX, RGB, HSL and more. No signup needed.
