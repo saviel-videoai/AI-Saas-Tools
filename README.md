@@ -54,6 +54,9 @@ Free credits included, so you can start generating photos right away.
 
 [Koke AI](https://www.koke.ai/): The AI-powered Citation Generator helps you create APA, MLA, Chicago, IEEE, and Harvard references in seconds
 
+[Pulse](https://pulsecorp.co): AI-moderated market research platform that runs customer interviews at scale.
+- #Market Research #Customer Interviews #Qualitative Research
+
 ## AI Small Tool
 [tempmail.ai](http://tempmail.ai): Disposable temporary email address — no sign-up, no spam, real-time inbox.
 
